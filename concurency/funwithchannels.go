@@ -1,3 +1,6 @@
+//passes messages between 2 goroutines.  I wanted to test to see if I could load a struct with a bunch of buffered channels
+//so  that it could be passed to a function. 
+
 package main
 
 import (
